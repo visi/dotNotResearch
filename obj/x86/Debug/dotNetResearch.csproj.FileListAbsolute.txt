@@ -1,0 +1,12 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\dotNetResearch.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\dotNetResearch.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\dotNetResearch.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\dotNetResearch.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\dotNetResearch.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\obj\x86\Debug\dotNetResearch.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\dotNetResearch.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\dotNetResearch.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\Castle.Core.dll
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\dotNetResearch\dotNetResearch\bin\Debug\Castle.Core.xml
